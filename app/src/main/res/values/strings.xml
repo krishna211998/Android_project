@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Android_class1</string>
+
+    <string name="title_activity_splash">SplashActivity</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+    <string name="logout">Logout</string>
+    <string name="menu_logout">Logout</string>
+    <string name="menu_profile">menu_profile</string>
+    <string name="find_location">find_location</string>
+    <string name="title_activity_map">Map</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="menu_Feedback">Feedback</string>
+    <string name="radio_india">india</string>
+    <string name="radio_outside_india">outside India</string>
+</resources>

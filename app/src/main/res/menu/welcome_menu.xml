@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:title="@string/menu_profile"
+        android:id="@+id/menu_profile"
+        />
+    <item
+        android:title="@string/find_location"
+        android:id="@+id/find_location"/>
+    <item
+        android:title="@string/menu_logout"
+        android:id="@+id/menu_logout"
+        app:showAsAction="ifRoom"
+        android:icon="@drawable/ic_power"/>
+    <item
+        android:title="@string/menu_Feedback"
+        android:id="@+id/Feedback"/>
+</menu>
